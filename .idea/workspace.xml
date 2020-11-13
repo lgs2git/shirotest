@@ -1,58 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a908442c-ab30-41bc-99c3-e9bb6978386d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shirotest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/ShiroApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/config/ShiroConfigration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/entity/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/exception/BaseExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/realm/CustomRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/session/CustomSessionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shirotest/testShiro/PermissionRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shiro-test-1.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shiro-test-2.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shiro-test-3.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lgs/jwtTest/ParseJwtTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lgs/jwtTest/TestJwt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lgs/shiroTest/ShiroTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lgs/shiroTest/ShiroTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lgs/shiroTest/ShiroTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/ShiroApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/config/ShiroConfigration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/entity/Permission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/exception/BaseExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/realm/CustomRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/session/CustomSessionManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shirotest/testShiro/PermissionRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/shiro-test-1.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/shiro-test-2.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/shiro-test-3.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/shirotest.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lgs/jwtTest/ParseJwtTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lgs/jwtTest/TestJwt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lgs/shiroTest/ShiroTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lgs/shiroTest/ShiroTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lgs/shiroTest/ShiroTest03.class" afterDir="false" />
+    <list default="true" id="a908442c-ab30-41bc-99c3-e9bb6978386d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shirotest/entity/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="155">
+              <caret line="25" column="70" lean-forward="true" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
               <folding>
                 <element signature="e#1029#1030#0" expanded="true" />
                 <element signature="e#1056#1057#0" expanded="true" />
@@ -157,7 +107,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2" />
     <option name="y" value="12" />
     <option name="width" value="1354" />
@@ -325,8 +275,16 @@
       <workItem from="1581410358645" duration="4422000" />
       <workItem from="1581474005526" duration="3711000" />
       <workItem from="1581556695834" duration="4464000" />
-      <workItem from="1605275590000" duration="779000" />
+      <workItem from="1605275590000" duration="1774000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1605276394015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605276394015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -362,10 +320,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21471000" />
+    <option name="totallyTimeSpent" value="22466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1563" height="855" extended-state="6" />
+    <frame x="-7" y="-7" width="1563" height="855" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18139535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -653,8 +612,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shirotest/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="155">
+          <caret line="25" column="70" lean-forward="true" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
           <folding>
             <element signature="e#1029#1030#0" expanded="true" />
             <element signature="e#1056#1057#0" expanded="true" />
